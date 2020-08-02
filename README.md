@@ -5,7 +5,7 @@ This is the repository for current work, once I am done with a file or topic it 
 
 Author: Hamish Johnson
 
-Website: www.hamishjohnson.ca
+Website: https://portfolioahamish.site123.me/
 
 Contact: hamish_johnson@sfu.ca
 
